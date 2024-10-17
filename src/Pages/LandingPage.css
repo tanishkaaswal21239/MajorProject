@@ -1,0 +1,7 @@
+/* styles.css */
+.bg-custom-image {
+    background-image: url('../Assets/kg.jpg'); /* Correct path to the image */
+    background-size: cover;
+    background-position: cover; 
+  }
+  
