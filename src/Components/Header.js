@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
   return (
-    <header className="bg-green-950 flex justify-between items-center p-3">
+    <header className="bg-emerald-800 flex justify-between items-center p-3">
       <div className="flex items-center">
         <h1 className="text-2xl font-bold">GreenXchange</h1>
       </div>
